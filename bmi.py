@@ -16,7 +16,5 @@ else:
      
      
 # print screen
-"""
-Tell your BMI 
-"""
+
 print('{}\nYour BMI is {:.2f} \n당신은 {}입니다.'.format(BMI_TEXT, bmi, level))
