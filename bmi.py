@@ -9,6 +9,7 @@ def get_level(bmi):
         level = '비만'
     else:
         level = '고도비만'
+    # return : level값 호출
     return level
 
 while True:
